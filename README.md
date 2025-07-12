@@ -25,9 +25,12 @@ Let's generate a new table where we can manipulate and restructure the data with
 
 **Step 1**
 Update full_name column
+
 **Step 2**
 Update age column
+
 **Step 3**
 Update martial_status column
+
 **Step 4**
 Update job_title column
